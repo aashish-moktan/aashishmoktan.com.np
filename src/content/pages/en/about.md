@@ -2,14 +2,14 @@
 title: About me
 permalink: /{{ lang }}/about/index.html
 key: 'about'
-description: "I'm a developer and designer in Madrid who has been building for the web professionally since 2008."
+description: "I'm a software developer based in Kathmandu who has been crafting innovative solutions since 2020."
 layout: about
-lead: "I'm a Berlin born, Madrid based developer and designer who has been building for the web professionally since 2008. I specialize in custom creative websites."
+lead: "I'm a Kathmandu based developer has been building for the web professionally since 2020. I specialize in crafting web applications."
 image: './src/assets/images/lene/lene-sobre-mi-2021.jpg'
-alt: 'Lene sitting on a gym ball in front of her desk, apparently working'
+alt: 'Aashish sitting on a gym ball in front of her desk, apparently working'
 breakout:
-  title: 'I live and work in Madrid'
-  intro: 'Since 2010, I have been living and working in Madrid, La Latina. I work with people all over the world.'
+  title: 'I live and work in Kathmandu'
+  intro: 'Since 2020, I have been living and working in Kathmandu, Nepal. I work with people all over the world.'
 finalWords: "I am constantly readjusting my perspectives and optimizing the way I work. With every new project I learn something new, and every new website becomes the best I have ever made. My projects strive to make the web (the world?) a bit better, for the people, and for the planet."
 faq:
   title: "FAQ"

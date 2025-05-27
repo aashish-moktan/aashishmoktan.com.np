@@ -2,7 +2,7 @@
 title: What I do
 permalink: /{{ lang }}/services/index.html
 key: 'services'
-description: 'I focus on developing things for the web. I place value on performance, accessibility, simplicity and long term support.'
+description: 'I specialize in building robust backend systems with Node.js, Express, and modern databases. I care deeply about performance, scalability, security, and long-term maintainability.'
 layout: services
-lead: 'I focus on developing things for the web. My approach is semantic HTML, CSS, and a dash of JavaScript. I care about performance, accessibility, simplicity and long term support. Also: websites should be fun!'
+lead: 'I focus on crafting scalable and secure backend systems using Node.js, Express, and databases like MongoDB and PostgreSQL. I prioritize performance, clean architecture, and long-term support — and I believe well-built backends make everything else possible.'
 ---
