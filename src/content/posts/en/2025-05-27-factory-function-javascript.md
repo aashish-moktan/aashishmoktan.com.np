@@ -3,7 +3,7 @@ title: 'Factory function in JavaScript'
 description: 🌟 Unlock the power of JavaScript with factory functions! Discover how these elegant constructs simplify object creation and enhance code reusability in our latest blog post!
 discover:
   description: ''
-category: tech
+category: blogpost
 key: 'factory-function-javascript'
 date: 2025-05-27 08:00:00
 lastEdit:

@@ -3,7 +3,7 @@ title: 'Node.js Memory Leak Troubleshooting'
 description: 'I have finally found the time, so I took my Eleventy Starter and rebuilt the website. It still looks the same in many parts, but I have refined, improved and changed almost everything.'
 discover:
   description: ''
-category: tech
+category: blogpost
 key: '2025-nodejs'
 date: 2025-05-27 07:00:00
 lastEdit:

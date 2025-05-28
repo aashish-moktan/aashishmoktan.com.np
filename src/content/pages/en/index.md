@@ -8,7 +8,7 @@ layout: home
 hero:
   title: I love turning ideas into reality.
   intro: Navigating the fullstack cosmos for 3+ years, I’ve orchestrated digital symphonies—crafting nimble Node.js backends, weaving Express.js into robust APIs, and sculpting databases that hum with efficiency. I build bridges between pixel-perfect interfaces and server-side logic, prioritizing clean code, frictionless performance, and accessibility. Whether optimizing MongoDB’s dance or tuning PostgreSQL’s rhythm, I thrive where data meets creativity, turning complex stacks into seamless, scalable stories.
-  image: './src/assets/images/lene/lene2023.jpg'
+  image: './src/assets/images/aashish/aashish-moktan.png'
   alt: 'Aashish sitting in front of her desk, smiling'
   hi: 'Hi, this is me.'
 projects:

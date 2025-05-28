@@ -9,10 +9,10 @@ export default {
         text: 'What I do',
         url: '/en/services/'
       },
-      {
-        text: 'Projects',
-        url: '/en/projects/'
-      },
+      // {
+      //   text: 'Projects',
+      //   url: '/en/projects/'
+      // },
       {
         text: 'Blog',
         url: '/en/blog/'
