@@ -2,9 +2,9 @@
 title: About me
 permalink: /{{ lang }}/about/index.html
 key: 'about'
-description: "I'm a software developer based in Kathmandu who has been crafting innovative solutions since 2020."
+description: "I'm a software developer based in Kathmandu who has been crafting innovative solutions since 2022."
 layout: about
-lead: "I'm a Kathmandu based developer has been building for the web professionally since 2020. I specialize in crafting web applications."
+lead: "I'm a Kathmandu based developer has been building for the web professionally since 2022. I specialize in crafting web applications."
 image: './src/assets/images/lene/lene-sobre-mi-2021.jpg'
 alt: 'Aashish sitting on a gym ball in front of her desk, apparently working'
 breakout:
@@ -26,12 +26,12 @@ cta:
   lead: "Send me a mail at [hola@lenesaile.com](mailto:hola@lenesaile.com) and tell me about your project, opportunities or whatever you have in mind! I'm always up for a chat."
 ---
 
-I have always enjoyed tinkering with computers. In 2004, I started building my first websites with HTML and CSS.
+I’ve always enjoyed working with code and building applications. In 2022, I began my journey as a backend developer using Node.js and Express, creating server-side logic and APIs that power web applications.
 
-In the beginning, these were simple linked HTML documents that I uploaded directly to the server. As soon as a website grew, this became very cumbersome, because changes in the navigation had to be made individually for each page. Also, there were no CMS (content management systems) for these pages, and only people with HTML knowledge could edit them. I discovered _WordPress_ and learned PHP to broaden the possibilities.
+Early on, I focused mainly on backend development, but soon realized the importance of understanding frontend technologies as well. I picked up HTML, CSS, and some JavaScript to better integrate the user interface with the backend services.
 
-Back then, I was a generalist in all its facets, and in addition to programming, I also did design (and graphic design for print media!), copy, marketing and search engine optimization. I have retained programming and digital design to this day, with a special love for typography, and can advise on the creation and organization of great content.
+In those early days, I wore many hats—developing backend systems, dabbling in frontend design, managing databases, and occasionally handling deployment. Today, I continue to specialize in backend development while maintaining a solid grasp of frontend fundamentals to build seamless, full-stack experiences.
 
-In 2018 I came across the Jamstack approach (Pre-rendered content + client-side enhancements, served via CDN) and as a consequence revamped all my workflows. Back to static websites, if you will! With _Eleventy_ I found the perfect generator tool, and there was now a whole infrastructure with hosting and CMS solutions available to me.
+I’m passionate about writing clean, efficient code and continuously exploring new tools and best practices to improve performance, security, and scalability in every project I take on.
 
-My focus has always been on personal websites, marketing and business websites or small applications. I want to create meaningful experiences that reflect the personality of people and peculiarities of products, and <sparkly-text class="pl-2xs" number-of-sparkles="5" style="--sparkly-text-color: var(--color-accent)">**bring joy**.</sparkly-text>
+My focus has always been on building robust APIs, scalable backend systems, and smooth integrations that power personal projects, marketing sites, and small applications designed to deliver real value and <sparkly-text class="pl-2xs" number-of-sparkles="5" style="--sparkly-text-color: var(--color-accent)">**great user experiences.**</sparkly-text>

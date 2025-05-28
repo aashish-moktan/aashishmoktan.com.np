@@ -13,7 +13,15 @@ export default {
     i18n: 'With nternationalization / Multilingual setup.',
     wordpress:
       'WordPress is a free, secure and fast Content-Management-System. I build lightweight and secure custom WordPress themes around it.',
-    php: 'When working with WordPress, I use PHP for backend logic.'
+    php: 'When working with WordPress, I use PHP for backend logic.',
+    express:
+      'Express is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and mobile applications.',
+    drizzle:
+      'Drizzle is a lightweight, type-safe ORM (Object Relational Mapper) for SQL databases in TypeScript/JavaScript projects',
+    websocket:
+      'WebSocket is a communication protocol that provides full-duplex, real-time communication between a client and a server over a single, long-lived TCP connection',
+    react:
+      'React is a JavaScript library for building user interfaces, primarily for single-page applications.'
   },
   de: {
     eleventy:
@@ -29,7 +37,15 @@ export default {
     i18n: 'Mit Internationalisierung / Mehrsprachigkeit.',
     wordpress:
       'WordPress ist ein kostenloses, sicheres und schnelles Content-Management-System. Ich baue damit leichtgewichtige und sichere WordPress-Themes.',
-    php: 'Wenn ich mit WordPress arbeite, verwende ich PHP für die Backend-Logik.'
+    php: 'Wenn ich mit WordPress arbeite, verwende ich PHP für die Backend-Logik.',
+    express:
+      'Express is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and mobile applications.',
+    drizzle:
+      'Drizzle is a lightweight, type-safe ORM (Object Relational Mapper) for SQL databases in TypeScript/JavaScript projects',
+    websocket:
+      'WebSocket is a communication protocol that provides full-duplex, real-time communication between a client and a server over a single, long-lived TCP connection',
+    react:
+      'React is a JavaScript library for building user interfaces, primarily for single-page applications.'
   },
   es: {
     eleventy:
@@ -45,6 +61,14 @@ export default {
     i18n: 'Con internacionalización / configuración multilingüe.',
     wordpress:
       'WordPress es un sistema de gestión de contenido gratuito, seguro y rápido. Construyo temas de WordPress personalizados ligeros y seguros.',
-    php: 'Cuando trabajo con WordPress, utilizo PHP para la lógica del backend.'
+    php: 'Cuando trabajo con WordPress, utilizo PHP para la lógica del backend.',
+    express:
+      'Express is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and mobile applications.',
+    drizzle:
+      'Drizzle is a lightweight, type-safe ORM (Object Relational Mapper) for SQL databases in TypeScript/JavaScript projects',
+    websocket:
+      'WebSocket is a communication protocol that provides full-duplex, real-time communication between a client and a server over a single, long-lived TCP connection',
+    react:
+      'React is a JavaScript library for building user interfaces, primarily for single-page applications.'
   }
 };

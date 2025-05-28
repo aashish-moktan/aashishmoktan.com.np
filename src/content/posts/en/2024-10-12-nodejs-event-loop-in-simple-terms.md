@@ -1,9 +1,9 @@
 ---
 title: 'Understanding the Node.js Event Loop in Simple Terms'
-description: 'I have finally found the time, so I took my Eleventy Starter and rebuilt the website. It still looks the same in many parts, but I have refined, improved and changed almost everything.'
+description: 'Discover how Node.js stays fast and efficient! This simple guide breaks down the Event Loop so anyone can understand how it handles tasks seamlessly. Click to unlock the secret behind Node.js performance!'
 discover:
   description: ''
-category: tech
+category: blogpost
 key: 'understanding-nodejs-event-loop-simple-terms'
 date: 2024-10-20 07:00:00
 lastEdit:
