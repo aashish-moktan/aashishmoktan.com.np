@@ -5,7 +5,7 @@ export default [
     date: '2025-02-01',
     // clientURL: 'https://snappychat.com',
     clientURL: '#',
-    image: './src/assets/images/projects/snappy-chat-app.png',
+    image: './src/assets/images/projects/snappy-random-chat.png',
     collaboration: '',
     tools: ['express', 'drizzle', 'websocket', 'react'],
     translations: {

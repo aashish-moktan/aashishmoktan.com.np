@@ -1,45 +1,45 @@
 export default {
   en: [
     {
-      key: 'consulting',
-      title: 'Consulting',
+      key: 'architecture',
+      title: 'Architecture',
       summary:
-        'I offer expert guidance to create visually appealing websites, tailored to you personally, giving your visitors a coherent impression of you and what you offer.',
+        'I design scalable, maintainable backend architectures using clean RESTful or GraphQL APIs, robust databases, and modular codebases built for growth and performance.',
       link: ''
     },
     {
-      key: 'development',
+      key: 'backend',
       title: 'Development',
       summary:
-        'Modern web frameworks like Eleventy and Astro help me to create websites based on semantic HTML, CSS and JavaScript without the need for databases or server-side languages.',
+        'From building secure APIs in Node.js and Express to managing databases with PostgreSQL or MongoDB, I focus on writing reliable server-side logic that powers great applications.',
       link: ''
     },
     {
-      key: 'design',
-      title: 'Design',
+      key: 'api-integration',
+      title: 'API Integrations',
       summary:
-        'I specialize in creative web design, creating visually stunning experiences: Elegant, responsive websites that are fun and easy to use.',
+        'I specialize in designing and integrating APIs—whether connecting external services or building microservices that talk to each other efficiently and securely.',
       link: ''
     },
     {
-      key: 'maintenance',
-      title: 'Maintenance',
+      key: 'infrastructure',
+      title: 'Infrastructure & DevOps',
       summary:
-        'The internet constantly evolves and so do the tools we use to build websites. I make sure that my websites function optimally and are secure over the long term.',
+        'I handle deployments, CI/CD pipelines, and cloud infrastructure using tools like Docker, GitHub Actions, and platforms like Vercel, Railway, or DigitalOcean.',
       link: ''
     },
     {
-      key: 'discoverability',
-      title: 'Discoverability',
+      key: 'performance',
+      title: 'Performance & Monitoring',
       summary:
-        'The secret for discoverability is to have a website that is great in every way: Technically perfect, fast and secure, clear in terms of structure, with genuinely good copy. I can help you with that.',
+        'I ensure systems run fast and reliably under load with proper caching, logging, health checks, and observability tools to proactively catch and fix issues.',
       link: ''
     },
     {
-      key: 'contents',
-      title: 'Contents',
+      key: 'security',
+      title: 'Security & Maintenance',
       summary:
-        "Let's try to find what it is that differentiates you. Something personal, that refers to the essence or philosophy of the project or product.",
+        'I prioritize secure coding practices, data protection, and regular updates — ensuring systems are safe, up-to-date, and resilient against vulnerabilities.',
       link: ''
     }
   ],
