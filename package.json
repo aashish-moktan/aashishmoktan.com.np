@@ -2,7 +2,7 @@
   "name": "aashishmoktan.com",
   "version": "2.0.0",
   "description": "My freelancing website built with Eleventy",
-  "author": "Lene Saile",
+  "author": "Aashish Moktan",
   "type": "module",
   "engines": {
     "node": ">=20.x.x"
